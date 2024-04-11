@@ -1,0 +1,48 @@
+                                                 Data Visualization Project
+
+
+This repository contains a simple data visualization project created using microsoft power bi. The project includes an Excel sheet with data for 15 students, and it visualizes the maximum and lowest marks achieved by the students using bar and donut charts.
+
+Dataset Details:
+The dataset consists of the following columns:
+
+ID: A unique identifier for each student.
+Name: The name of the student.
+Mark: The mark achieved by the student.
+Here is the dataset:
+
+ID	Name	Mark
+1	Raiden	22
+2	Boa	45
+3	Remini	67
+4	Childe	45
+5	Luffy	12
+6	Zoro	34
+7	Sanji	56
+8	Momo	87
+9	Sayan	65
+10	Riksha	33
+11	Ji Wan	67
+12	Goko	78
+13	Tara	55
+14	Maki	9
+15	Hoyo	90
+
+
+Visualizations
+
+The project includes two visualizations:
+
+Bar Chart: This chart visualizes the maximum mark achieved by any student in the dataset. It provides a clear comparison of each student's mark against the highest mark.
+
+Donut Chart: This chart visualizes the lowest mark achieved by any student in the dataset. It offers a breakdown of how the lowest mark relates to the marks of other students.
+
+How to View the Visualizations
+To view the visualizations, you can open the  file in this repository using Microsoft excel. The visualizations are created using Microsoft Power Bi charting capabilities .
+
+License
+This project is shared under the MIT License.
+
+Feel free to explore the data and visualizations in this repository. If you have any questions or suggestions, please don't hesitate to reach out.
+
+NOTE : THE DETAIL SPROVIDED IN THE CHART IS NOT OF ORIGINAL BUT DUMMY VALUES AND NAMES 
