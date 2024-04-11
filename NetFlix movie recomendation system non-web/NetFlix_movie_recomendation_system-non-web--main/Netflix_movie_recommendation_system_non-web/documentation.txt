@@ -1,0 +1,49 @@
+====================================================================================
+                          MOVIE RECOMMENDATION SYSTEM DOCUMENTATION
+====================================================================================
+
+Table of Contents:
+1. Purpose
+2. Usage
+3. Requirements
+4. Additional Notes
+
+====================================================================================
+1. Purpose
+====================================================================================
+
+The Movie Recommendation System is designed to provide users with personalized movie recommendations based on their input movie choice. The system utilizes natural language processing techniques and cosine similarity to identify similar movies from a dataset.
+
+====================================================================================
+2. Usage
+====================================================================================
+
+To use the Movie Recommendation System, follow these steps:
+
+   a. **Data Loading**: The system loads the movie dataset from the provided CSV file.
+
+   b. **Feature Selection**: Relevant features, such as 'id', 'title', 'overview', and 'genre', are selected for analysis.
+
+   c. **Text Vectorization**: The system uses the CountVectorizer from scikit-learn to convert movie tags into numerical vectors.
+
+   d. **Cosine Similarity Calculation**: Cosine similarity is calculated based on the vectorized movie tags, determining how similar movies are to each other.
+
+   e. **User Input**: The user is prompted to input the title of a movie they would like to watch.
+
+   f. **Recommendation Generation**: The system generates a list of movie recommendations using cosine similarity and presents them to the user.
+
+   g. **Display Recommendations**: If recommendations are available, they are displayed to the user. Otherwise, a message is shown indicating no recommendations.
+
+====================================================================================
+3. installation
+
+Ensure the following requirements are met before running the Movie Recommendation System:
+
+   - Python: Version 3.x is recommended.
+   - Pandas: Required for data manipulation.
+   - Scikit-learn: Necessary for text vectorization and cosine similarity calculations.
+   - <<<<<run the "netflix_recomendation _system(nonweb).ipynb file>>>>>important<<<<<
+===================================================================================
+
+
+

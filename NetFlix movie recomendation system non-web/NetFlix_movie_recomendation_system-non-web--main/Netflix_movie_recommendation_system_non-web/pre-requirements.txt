@@ -1,0 +1,11 @@
+hello you have to install the below libraries to make the code work in your system
+
+pandas 
+installation:
+[pip install pandas]
+
+
+sklearn 
+installation:
+[pip install sklearn]
+-----------------------------------------------------------------------------thank you--------------------------------------------------------------------------------

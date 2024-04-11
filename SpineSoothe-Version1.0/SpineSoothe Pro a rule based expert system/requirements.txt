@@ -1,0 +1,27 @@
+Requirements:
+Python:
+Install Python on your computer. Download it from python.org.
+
+Text Editor:
+Have a basic text editor installed (e.g., Notepad on Windows, TextEdit on macOS).
+
+
+Instructions to Run SPINE_SOOTH_PRO:
+Download SPINE_SOOTH_PRO:
+Download the SPINE_SOOTH_PRO script (a Python file) to your computer.
+
+Install Python:
+Install Python by following the instructions on the Python website.
+
+Open Text Editor:
+Open your computer's text editor.
+
+Edit Script (Optional):
+If you want to customize or view the script, open it in the text editor.
+
+Run Script:
+Right-click on the script file, and choose "Open with Python" or run it from the command line/terminal using python SpineSoothe Pro.py.
+Follow On-Screen Instructions:
+
+Answer the questions prompted by SPINE_SOOTH_PRO to receive personalized exercise recommendations.
+
