@@ -6,6 +6,7 @@
 # 2. Dependencies:
 
 This system requires the following dependencies:
+
 👉Pandas: For data manipulation and analysis.
 
 👉Scikit-learn: For text vectorization and cosine similarity computation.
