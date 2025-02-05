@@ -1,9 +1,7 @@
 ## Please remember that while testing or using any app online use meaningfull data and dont be a fool like m..ahem certain people i know.
 # Movie Recommendation System Documentation
 # 1. Overview:
-👉The Movie Recommendation System is designed to provide personalized movie recommendations based on user input. It utilizes a dataset containing movie information such as titles, 
-
-overviews, and genres.
+👉The Movie Recommendation System is designed to provide personalized movie recommendations based on user input. It utilizes a dataset containing movie information such as titles, overviews, and genres.
 
 # 2. Dependencies:
 
