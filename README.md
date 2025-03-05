@@ -56,5 +56,5 @@ This system requires the following dependencies:
 
 # 7. Contributors:
 
-Developed by ARAVIND S.Thankyou
+Developed by Ivan Zabusov.Thankyou
 
